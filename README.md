@@ -4,6 +4,7 @@ Tool designed to help identify incorrectly configured Django applications that a
  # Usage
  
 Usage: python3 djangohunter.py --key {shodan}
+
 Dorks: 'DisallowedHost', 'KeyError', 'OperationalError', 'Page not found at /'
 
 # Requirements
