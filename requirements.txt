@@ -1,0 +1,4 @@
+shodan
+beautifulsoup4
+requests
+pyfiglet
